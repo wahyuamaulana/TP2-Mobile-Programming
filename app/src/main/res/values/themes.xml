@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.TP2" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.TP2" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="Theme.TP2.Splash" parent="Theme.TP2">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
 </resources>

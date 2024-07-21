@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TP2</string>
+    <string name="app_title">Mobile Programming</string>
+
+    <string name="search_text">Search</string>
+    <string name="title_activity_main">EV Charge Location</string>
+    <string name="title_activity_detail">Detail Location</string>
 </resources>
